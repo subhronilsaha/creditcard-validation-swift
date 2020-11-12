@@ -1,0 +1,6 @@
+framework module Pods_creditcard_assessment {
+  umbrella header "Pods-creditcard-assessment-umbrella.h"
+
+  export *
+  module * { export * }
+}
